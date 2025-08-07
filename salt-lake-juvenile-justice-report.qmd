@@ -1,6 +1,6 @@
 ---
 title: "Salt Lake County Neighborhoods: The Right Investment for Juvenile Justice Success"
-subtitle: "Transforming communities through strategic investment in youth and families rather than incarceration"
+subtitle: "Transforming communities through strategic investment in youth and families"
 author: "Based on Utah's 2025 Statewide Youth Geospatial Study"
 date: "`r Sys.Date()`"
 format:
@@ -216,7 +216,7 @@ expected_outcomes <- data.frame(
 # Salt Lake County Neighborhoods: The Right Investment for Juvenile Justice Success
 
 ::: {.subtitle}
-Transforming communities through strategic investment in youth and families rather than incarceration
+Transforming communities through strategic investment in youth and families
 :::
 
 **Based on Utah's 2025 Statewide Youth Geospatial Study findings**
